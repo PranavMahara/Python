@@ -1,0 +1,1 @@
+# Write a Python program to implement Euclidean Algorithm to compute the greatest common divisor (gcd).

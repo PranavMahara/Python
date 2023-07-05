@@ -1,0 +1,11 @@
+# Write a Python program to convert Polar coordinates to rectangular coordinates.
+
+import cmath
+cn = complex(3,4)
+# get polar coordinates
+print("Polar Coordinates: ",cmath.polar(cn))
+
+# polar to rectangular. Format for input is (length, ‹angle in radians›).
+#Returns a complex number
+cn1 = cmath.rect(2, cmath.pi)
+print("Polar to rectangular: ",cn1)

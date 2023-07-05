@@ -1,0 +1,1 @@
+# Write a Python program to print alphabet pattern 'P', 'R' 
